@@ -1,5 +1,12 @@
 const fibonacci = (n) => {
-  // your code here
+
+  const result = [];
+  var fibo = 1;
+
+  for(i = 0; i < n; n++) {
+    var last = n;
+    result.push()
+  }
 }
 
 module.exports = fibonacci;
